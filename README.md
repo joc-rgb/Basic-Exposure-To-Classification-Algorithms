@@ -1,4 +1,4 @@
-# Introduction-to-Machine-Learning-Algorithms
+# Basic Exposure To Classification Algorithms
 
 Tutorial followed: https://www.youtube.com/watch?v=i_LwzRVP7bg
 
